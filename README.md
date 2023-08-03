@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cathy, an <a href="https://linkedin.com/in/CathyMorgan/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Cathy, an <a href="https://https:/www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav/linkedin.com/in//">IT Professional</a>☺</h1>
 
 <h2>👩‍💻 Information Technology Projects:</h2>
 - <b>osTicket (Help Desk Ticketing System)</b>
