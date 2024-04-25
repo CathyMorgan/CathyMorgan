@@ -1,4 +1,4 @@
-<h1>Hi, My Name is Cathy, an <a href="https://linkedin.com/in/cathy-morgan-b36545106">IT Professional</a>☺</h1>
+<h1>Hi, My Name is Cathy, an <a href="https://linkedin.com/in/cathy-morgan-b36545106">IT </a>☺</h1>
 <h2>👩‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
